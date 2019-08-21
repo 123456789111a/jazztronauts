@@ -1,26 +1,28 @@
+# Jazztronauts 원작자에게 후원하기
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/N4N6H7ZH)
 
 # Jazztronauts
-Videogames are the poison, Jazztronauts is the cure.
+비디오 게임은 독약입니다. 재즈트로너츠가 해독제입니다.
 
 
-### What is this
-Jazztronauts is a cooperative theft-em-up for Garry's Mod, also known as prop hunt 2.
-Go to random maps on the workshop, pillage its trash for money, and converse with your higher-dimensional cat overlords.
+### 이게 뭐죠?
+Jazztronauts(재즈트로너츠)는 게리모드를 위한 협동 게임모드로, 프롭 헌트 2라고도 알려져 있습니다. 
+워크샵에 있는 무작위 맵으로 가서, 돈을 벌기 위해 물건들을 훔치고, 고양이들과 얘기를 나누세요.
 
-- If you want instructions on installing it the normal way, follow this link for the official FAQ.
-- Else, this repo can just be smashed into your addons folder, it is a self-contained jazztronauts installation
+- 설치하는 방법에 대한 지침을 보려면 공식 FAQ에서 확인하세요.
+- 아니면, 이 저장소 파일을 addons 폴더에 넣어도 상관없습니다.
 
-### Features
-- Dynamically download and mount workshop map addons
-- Load in BSP data for specific effects, such as stealing static props and world brushes
-- Dynamic dialog/mission system
-- Persistent player data, and newgame+ mode
-- Hammer I/O viewer gun, watch I/O events happen in real time
-- Lots of pretty pretty art
+### 특징
+- 워크샵 맵을 동적으로 다운로드하고 마운트합니다.
+- 프롭, 브러쉬를 훔치기 위해 BSP 데이터를 읽어옵니다.
+- 동적 대사/미션 시스템
+- 플레이어 데이터 저장, 및 뉴 게임+ 모드
+- 해머 I/O 시스템 뷰어. 맵의 I/O 연결 구조를 파악할 수 있습니다.
+- 개 귀여운 아트워크
+- 한국어 팬 번역
 
-### Contributions
-This repository is hooked up to build and upload directly to the [Steam Workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1452613192) "whenever™". 
-Contributions are always welcome, and can be done through the normal github pull request avenue, and I'll try to update the workshop version as soon as I can after that.
+### 기여
+이 저장소는 원본 게임모드의 한글 번역을 위해 포크되었습니다. [[원본 저장소]](https://github.com/Foohy/jazztronauts)
+기여는 언제나 환영합니다.
 
-### [INSTALLATION AND PLAY FAQ](https://github.com/Foohy/jazztronauts/wiki/FAQ)
+### [설치하는 방법과 각종 FAQ(영어)](https://github.com/Foohy/jazztronauts/wiki/FAQ)
